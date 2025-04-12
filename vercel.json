@@ -1,0 +1,5 @@
+{
+    "projects": [],
+    "rewrites": [{ "source": "/(.*)", "destination": "/To-do-List Webapp/app.py" }]
+  }
+  
