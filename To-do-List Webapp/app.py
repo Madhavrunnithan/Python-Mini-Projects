@@ -30,7 +30,3 @@ def clearall():
         tasklist.clear()
         print(tasklist)
     return render_template("index.html",task = tasklist)
-
-
-if __name__ == "__main__":
-    app.run(debug = True)
