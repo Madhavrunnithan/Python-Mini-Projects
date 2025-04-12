@@ -1,4 +1,4 @@
 {
-    "rewrites": [{ "source": "/(.*)", "destination": "/To-do-List Webapp/app.py" }]
+    "rewrites": [{ "source": "/(.*)", "destination": "/todolist/app.py" }]
   }
   
